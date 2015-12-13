@@ -4,12 +4,12 @@
     <name>teamcity_queue_statistics</name>
     <display-name>teamcity_queue_statistics</display-name>
     <version>@Version@</version>
-    <description>Plugin description</description>
-    <download-url>Plugin download URL</download-url>
+    <description>Shows statistics of builds and build queue</description>
+    <download-url>https://github.com/cyberbolt/tc_build_queue_stat</download-url>
     <email>bulat.zamilov@gmail.com</email>
     <vendor>
-      <name>@Bulat Zamilov@</name>
-      <url>@https://vk.com/cyberbolt@</url>
+      <name>Bulat Zamilov</name>
+      <url>https://vk.com/cyberbolt</url>
       <logo>Plugin vendor logo URL</logo>
     </vendor>
   </info>
