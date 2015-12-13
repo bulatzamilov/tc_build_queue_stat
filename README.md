@@ -18,8 +18,8 @@ Build queue related metrics, checking with 5-minutes interval:
 ## Install
 
 To build plugin:
-'''cli
+```batchfiile
 mvn package
-''' 
+```
 
 Copy zip file from target/ directory to <TeamCity data dir>/plugins and restart TeamCity.
